@@ -1,1 +1,0 @@
-# Teori — Pekan 01

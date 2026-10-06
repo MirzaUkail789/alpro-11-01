@@ -12,7 +12,7 @@ func main() {
 	kurang := a - b
 	kali := a * b
 	bagi := a / b
-	sisa := a % b
+	sisa :=   a % b
 
 	fmt.Println(jumlah, kurang, kali, bagi, sisa)
 }
